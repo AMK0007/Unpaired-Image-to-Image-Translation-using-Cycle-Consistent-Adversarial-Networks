@@ -38,12 +38,12 @@ CycleGAN is a type of Generative Adversarial Network (GAN) that learns to perfor
 
 Install required packages:
 
-
- pip install tensorflow numpy matplotlib pillow
+ ```bash
+    pip install tensorflow numpy matplotlib pillow
 
 Run the Notebook
-
-Open Converting_Images_to_Cartoon_Form_using_Cycle_GAN.ipynb in Jupyter Notebook or VS Code.
+ ```bash
+    Open Converting_Images_to_Cartoon_Form_using_Cycle_GAN.ipynb in Jupyter Notebook or VS Code.
 
 Run all cells to:
 
