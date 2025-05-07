@@ -38,7 +38,7 @@ CycleGAN is a type of Generative Adversarial Network (GAN) that learns to perfor
 
 Install required packages:
 
- ```bash
+
  pip install tensorflow numpy matplotlib pillow
 
 Run the Notebook
