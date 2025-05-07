@@ -54,7 +54,7 @@ Train the CycleGAN model
 
 Generate cartoon-style images from input images
 
-## 📁 Dataset
+Dataset
 
 /kaggle/input/celeba-dataset
 /kaggle/input/cartoonset10k
