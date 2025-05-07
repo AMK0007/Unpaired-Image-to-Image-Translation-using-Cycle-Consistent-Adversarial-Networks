@@ -23,12 +23,19 @@ CycleGAN is a type of Generative Adversarial Network (GAN) that learns to perfor
 ## 🗂️ Directory Structure
 
 📦CartoonGAN
+
 ┣ 📜Converting_Images_to_Cartoon_Form_using_Cycle_GAN.ipynb
+
 ┣ 📁datasets
+
 ┃ ┣ 📁trainA (e.g., real photos)
+
 ┃ ┣ 📁trainB (e.g., cartoon images)
+
 ┃ ┣ 📁testA (real images for inference)
+
 ┣ 📁outputs (generated cartoon images)
+
 ┣ 📜README.md
 
 
@@ -52,7 +59,7 @@ Train the CycleGAN model
 
 Generate cartoon-style images from input images
 
-Dataset
+## 📁 Dataset
 
 /kaggle/input/celeba-dataset
 
