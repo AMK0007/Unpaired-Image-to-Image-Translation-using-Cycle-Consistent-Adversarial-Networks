@@ -34,7 +34,7 @@ CycleGAN is a type of Generative Adversarial Network (GAN) that learns to perfor
 
 ## 🚀 Getting Started
 
-### Prerequisites
+ Prerequisites
 
 Install required packages:
 
