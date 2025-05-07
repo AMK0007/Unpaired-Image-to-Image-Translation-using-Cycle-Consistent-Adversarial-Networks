@@ -59,10 +59,10 @@ Dataset
 /kaggle/input/celeba-dataset
 /kaggle/input/cartoonset10k
 
-📊 Results
+## 📊 Results
 Sample input and generated cartoon-style images are displayed at the end of the notebook.
 
-📖 References
+## 📖 References
 Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks
 (https://arxiv.org/pdf/1703.10593)
 
