@@ -66,7 +66,3 @@ Sample input and generated cartoon-style images are displayed at the end of the 
 Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks
 (https://arxiv.org/pdf/1703.10593)
 
-TensorFlow GAN Tutorial
-
-📜 License
-This project is licensed under the MIT License.
