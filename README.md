@@ -55,6 +55,7 @@ Generate cartoon-style images from input images
 Dataset
 
 /kaggle/input/celeba-dataset
+
 /kaggle/input/cartoonset10k
 
 ## 📊 Results
