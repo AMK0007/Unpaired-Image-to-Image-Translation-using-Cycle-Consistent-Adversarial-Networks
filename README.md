@@ -1,5 +1,4 @@
-# 🖼️ Converting Images to Cartoon Form using CycleGAN
-
+# 🖼️ Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks
 This project demonstrates the use of CycleGAN to transform real-world images into cartoon-style images using unpaired image-to-image translation.
 
 ## 📁 Project Overview
@@ -55,22 +54,10 @@ Train the CycleGAN model
 
 Generate cartoon-style images from input images
 
-Dataset
+## 📁 Dataset
 
-Make sure you place your datasets in the following format:
-
-datasets/
-  trainA/
-    real_image1.jpg
-    real_image2.jpg
-    ...
-  trainB/
-    cartoon_image1.jpg
-    cartoon_image2.jpg
-    ...
-  testA/
-    test_real_image1.jpg
-    test_real_image2.jpg
+/kaggle/input/celeba-dataset
+/kaggle/input/cartoonset10k
 
 📊 Results
 Sample input and generated cartoon-style images are displayed at the end of the notebook.
